@@ -7,13 +7,13 @@ The project focuses on building a clean ML pipeline, applying feature engineerin
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - Competition: Spaceship Titanic (Kaggle)
 - Link: https://www.kaggle.com/competitions/spaceship-titanic
 
 ---
 
-## ⚙️ Data Preprocessing
+##  Data Preprocessing
 
 - Split `Cabin` into:
   - Deck
@@ -42,7 +42,7 @@ The project focuses on building a clean ML pipeline, applying feature engineerin
 
 ---
 
-## 🤖 Models Used
+##  Models Used
 
 - Logistic Regression
 - Decision Tree
@@ -54,7 +54,7 @@ Final model:
 
 ---
 
-## 🔬 Evaluation
+##  Evaluation
 
 - Used **5-Fold Cross Validation**
 - Compared CV score with Test score
@@ -62,7 +62,7 @@ Final model:
 
 ---
 
-## 📈 Results
+##  Results
 
 - **Cross Validation Accuracy:** ~80.07%
 - **Test Accuracy:** ~80.39%
@@ -70,7 +70,7 @@ Final model:
 
 ---
 
-## ❌ What Did NOT Work
+## What Did NOT Work
 
 - Log Transformation → Decreased performance
 - IQR Outlier Handling → Decreased performance
